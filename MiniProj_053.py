@@ -384,7 +384,7 @@ print("F1 Score = ", lrmodelSummary.weightedFMeasure())
 # In[47]:
 
 
-pip install kafka-python
+
 
 
 # In[49]:
